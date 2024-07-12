@@ -16,6 +16,8 @@ source $HOME/.config/zsh/sdkman.zsh
 
 source $HOME/.config/zsh/plugins.zsh
 
+source $HOME/.config/zsh/pj.zsh
+
 source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.

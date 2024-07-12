@@ -3,4 +3,6 @@ plugins=(
   zsh-autosuggestions
   zsh-syntax-highlighting
   fzf
+  zsh-interactive-cd
+  pj
 )
